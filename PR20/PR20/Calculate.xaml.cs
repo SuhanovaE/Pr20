@@ -58,6 +58,7 @@ namespace PR20
         {
             Hideandseek newWin = new Hideandseek();
             newWin.Show();
+            this.Close();
         }
     }
 

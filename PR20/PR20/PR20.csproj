@@ -59,6 +59,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="computation.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Hideandseek .xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -73,6 +77,9 @@
     </Compile>
     <Compile Include="Calculate.xaml.cs">
       <DependentUpon>Calculate.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="computation.xaml.cs">
+      <DependentUpon>computation.xaml</DependentUpon>
     </Compile>
     <Compile Include="Hideandseek .xaml.cs">
       <DependentUpon>Hideandseek .xaml</DependentUpon>

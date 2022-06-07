@@ -28,27 +28,15 @@ namespace PR20
 
         private void BtnFocus_Click(object sender, RoutedEventArgs e)
         {
-            
-            
-            //TextBlock newText = new TextBlock();
-            //TxtInput.Text = TxtOutput.Text;
-           
-           
-            //string word1 = TxtOutput.Text;
-            //TxtInput.Text = word1;
-            //TxtOutput.Clear();
-            //BtnFocus.Content = "->";
-            //string x = "->";
-            //string y = "<-";
+            BtnFocus.Content = "->";
+
             if (BtnFocus.Content == "->")
             {
-
                 string word = TxtInput.Text;
                 TxtOutput.Text = word;
                 BtnFocus.Content = "<-";
                 TxtInput.Clear();
             }
-
             else
             {
                 string word = TxtOutput.Text;
@@ -56,13 +44,13 @@ namespace PR20
                 BtnFocus.Content = "->";
                 TxtOutput.Clear();
             }
-
         }
-
         private void btnNext_Click(object sender, RoutedEventArgs e)
         {
             Calculate newWin = new Calculate();
             newWin.Show();
+            this.Close();
+
         }
     }
 }

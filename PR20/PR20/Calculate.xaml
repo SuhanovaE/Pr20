@@ -73,22 +73,22 @@
             <TextBox x:Name="txtSumm"
                        Height="17" 
                        Margin="5"                      
-                       FontSize="7" 
+                       FontSize="7" Text="0"
                        Width="75"/>
             <TextBox x:Name="txtMinuss"
                        Height="17" 
                        Margin="5"                      
-                       FontSize="7" 
+                       FontSize="7" Text="0"
                        Width="75"/>
             <TextBox x:Name="txtCompositionn"
                        Height="17" 
                        Margin="5"                      
-                       FontSize="7" 
+                       FontSize="7" Text="0"
                        Width="75"/>
             <TextBox x:Name="txtDivisionn"
                            Height="17" 
                      Margin="5"                      
-                       FontSize="7" 
+                       FontSize="7" Text="0"
                        Width="75"/>
         </StackPanel>
         <Button x:Name="btnNext"
