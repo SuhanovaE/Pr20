@@ -1,0 +1,65 @@
+C:\Users\Студент\Desktop\PR20\PR20\bin\Debug\PR20.exe.config
+C:\Users\Студент\Desktop\PR20\PR20\bin\Debug\PR20.exe
+C:\Users\Студент\Desktop\PR20\PR20\bin\Debug\PR20.pdb
+C:\Users\Студент\Desktop\PR20\PR20\obj\Debug\MainWindow.g.cs
+C:\Users\Студент\Desktop\PR20\PR20\obj\Debug\App.g.cs
+C:\Users\Студент\Desktop\PR20\PR20\obj\Debug\PR20_MarkupCompile.cache
+C:\Users\Студент\Desktop\PR20\PR20\obj\Debug\PR20_MarkupCompile.lref
+C:\Users\Студент\Desktop\PR20\PR20\obj\Debug\MainWindow.baml
+C:\Users\Студент\Desktop\PR20\PR20\obj\Debug\PR20.g.resources
+C:\Users\Студент\Desktop\PR20\PR20\obj\Debug\PR20.Properties.Resources.resources
+C:\Users\Студент\Desktop\PR20\PR20\obj\Debug\PR20.csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\PR20\PR20\obj\Debug\PR20.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\PR20\PR20\obj\Debug\PR20.exe
+C:\Users\Студент\Desktop\PR20\PR20\obj\Debug\PR20.pdb
+C:\Users\Студент\Desktop\PR20\PR20\obj\Debug\PR20.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\PR20\PR20\obj\Debug\Calculate.g.cs
+C:\Users\Студент\Desktop\PR20\PR20\obj\Debug\Calculate.baml
+C:\Users\Студент\Desktop\PR20\PR20\obj\Debug\Hideandseek .g.cs
+C:\Users\Студент\Desktop\PR20\PR20\obj\Debug\Hideandseek .baml
+C:\Users\ekate\OneDrive\Рабочий стол\PR20\PR20\bin\Debug\PR20.exe.config
+C:\Users\ekate\OneDrive\Рабочий стол\PR20\PR20\bin\Debug\PR20.exe
+C:\Users\ekate\OneDrive\Рабочий стол\PR20\PR20\bin\Debug\PR20.pdb
+C:\Users\ekate\OneDrive\Рабочий стол\PR20\PR20\obj\Debug\PR20.csproj.AssemblyReference.cache
+C:\Users\ekate\OneDrive\Рабочий стол\PR20\PR20\obj\Debug\Calculate.g.cs
+C:\Users\ekate\OneDrive\Рабочий стол\PR20\PR20\obj\Debug\Hideandseek .g.cs
+C:\Users\ekate\OneDrive\Рабочий стол\PR20\PR20\obj\Debug\MainWindow.g.cs
+C:\Users\ekate\OneDrive\Рабочий стол\PR20\PR20\obj\Debug\App.g.cs
+C:\Users\ekate\OneDrive\Рабочий стол\PR20\PR20\obj\Debug\PR20_MarkupCompile.cache
+C:\Users\ekate\OneDrive\Рабочий стол\PR20\PR20\obj\Debug\PR20_MarkupCompile.lref
+C:\Users\ekate\OneDrive\Рабочий стол\PR20\PR20\obj\Debug\Calculate.baml
+C:\Users\ekate\OneDrive\Рабочий стол\PR20\PR20\obj\Debug\Hideandseek .baml
+C:\Users\ekate\OneDrive\Рабочий стол\PR20\PR20\obj\Debug\MainWindow.baml
+C:\Users\ekate\OneDrive\Рабочий стол\PR20\PR20\obj\Debug\PR20.g.resources
+C:\Users\ekate\OneDrive\Рабочий стол\PR20\PR20\obj\Debug\PR20.Properties.Resources.resources
+C:\Users\ekate\OneDrive\Рабочий стол\PR20\PR20\obj\Debug\PR20.csproj.GenerateResource.cache
+C:\Users\ekate\OneDrive\Рабочий стол\PR20\PR20\obj\Debug\PR20.csproj.CoreCompileInputs.cache
+C:\Users\ekate\OneDrive\Рабочий стол\PR20\PR20\obj\Debug\PR20.exe
+C:\Users\ekate\OneDrive\Рабочий стол\PR20\PR20\obj\Debug\PR20.pdb
+C:\Users\ekate\OneDrive\Рабочий стол\PR20\PR20\obj\Debug\computation.g.cs
+C:\Users\ekate\OneDrive\Рабочий стол\PR20\PR20\obj\Debug\computation.baml
+C:\Users\Студент\Desktop\Синюкова и Суханова\PR20\PR20\bin\Debug\PR20.exe.config
+C:\Users\Студент\Desktop\Синюкова и Суханова\PR20\PR20\bin\Debug\PR20.exe
+C:\Users\Студент\Desktop\Синюкова и Суханова\PR20\PR20\bin\Debug\PR20.pdb
+C:\Users\Студент\Desktop\Синюкова и Суханова\PR20\PR20\obj\Debug\PR20.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\Синюкова и Суханова\PR20\PR20\obj\Debug\Calculate.g.cs
+C:\Users\Студент\Desktop\Синюкова и Суханова\PR20\PR20\obj\Debug\computation.g.cs
+C:\Users\Студент\Desktop\Синюкова и Суханова\PR20\PR20\obj\Debug\Hideandseek .g.cs
+C:\Users\Студент\Desktop\Синюкова и Суханова\PR20\PR20\obj\Debug\MainWindow.g.cs
+C:\Users\Студент\Desktop\Синюкова и Суханова\PR20\PR20\obj\Debug\App.g.cs
+C:\Users\Студент\Desktop\Синюкова и Суханова\PR20\PR20\obj\Debug\PR20_MarkupCompile.cache
+C:\Users\Студент\Desktop\Синюкова и Суханова\PR20\PR20\obj\Debug\PR20_MarkupCompile.lref
+C:\Users\Студент\Desktop\Синюкова и Суханова\PR20\PR20\obj\Debug\Calculate.baml
+C:\Users\Студент\Desktop\Синюкова и Суханова\PR20\PR20\obj\Debug\computation.baml
+C:\Users\Студент\Desktop\Синюкова и Суханова\PR20\PR20\obj\Debug\Hideandseek .baml
+C:\Users\Студент\Desktop\Синюкова и Суханова\PR20\PR20\obj\Debug\MainWindow.baml
+C:\Users\Студент\Desktop\Синюкова и Суханова\PR20\PR20\obj\Debug\PR20.g.resources
+C:\Users\Студент\Desktop\Синюкова и Суханова\PR20\PR20\obj\Debug\PR20.Properties.Resources.resources
+C:\Users\Студент\Desktop\Синюкова и Суханова\PR20\PR20\obj\Debug\PR20.csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\Синюкова и Суханова\PR20\PR20\obj\Debug\PR20.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\Синюкова и Суханова\PR20\PR20\obj\Debug\PR20.exe
+C:\Users\Студент\Desktop\Синюкова и Суханова\PR20\PR20\obj\Debug\PR20.pdb
+C:\Users\Студент\Desktop\Синюкова и Суханова\PR20\PR20\obj\Debug\Morze.g.cs
+C:\Users\Студент\Desktop\Синюкова и Суханова\PR20\PR20\obj\Debug\Morze.baml
+C:\Users\Студент\Desktop\Синюкова и Суханова\PR20\PR20\obj\Debug\Booking.g.cs
+C:\Users\Студент\Desktop\Синюкова и Суханова\PR20\PR20\obj\Debug\Booking.baml

@@ -1,0 +1,46 @@
+﻿<Window x:Class="PR20.Hideandseek"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PR20"
+        mc:Ignorable="d"
+        Title="Hideandseek" Height="150" Width="400">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="60*"/>
+            <ColumnDefinition Width="87*"/>
+            <ColumnDefinition Width="286*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Row="0"
+                    Orientation="Vertical"
+                    VerticalAlignment="Center" Height="120" Grid.ColumnSpan="2">
+            <CheckBox x:Name="chknumber1" Content="edit1" Margin="0,15,0,0"
+                      Checked="chknumber1_Checked"
+                      Unchecked="chknumber1_Unchecked"/>
+            <CheckBox x:Name="chknumber2" Content="edit2" Margin="0,10,0,0"
+                      Checked="chknumber2_Checked"
+                      Unchecked="chknumber2_Unchecked"/>
+            <CheckBox x:Name="chknumber3" Content="edit3" Margin="0,10,0,0"
+                      Checked="chknumber3_Checked"
+                      Unchecked="chknumber3_Unchecked"/>
+            <CheckBox x:Name="chknumber4" Content="edit4" Margin="0,10,0,0"
+                     Checked="chknumber4_Checked"
+                      Unchecked="chknumber4_Unchecked"/>
+        </StackPanel>
+        <StackPanel Grid.Column="1"
+                    Orientation="Vertical"
+                    VerticalAlignment="Center" Height="100" >
+            <TextBox x:Name="Box1" Text="Поле edit1" Width="65" Margin="3"/>
+            <TextBox x:Name="Box2" Text="Поле edit2" Width="65" Margin="3"/>
+            <TextBox x:Name="Box3" Text="Поле edit3" Width="65" Margin="3"/>
+            <TextBox x:Name="Box4" Text="Поле edit4" Width="65" Margin="3"/>
+        </StackPanel>
+        <StackPanel Grid.Column="2"
+                    Orientation="Horizontal"
+                    HorizontalAlignment="Center"  Grid.ColumnSpan="2">
+            <Button x:Name="Next" Content="След. задание"
+                    Width="90" Height="30" Click="Next_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

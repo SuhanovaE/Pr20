@@ -1,0 +1,46 @@
+﻿<Window x:Class="PR20.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PR20"
+        mc:Ignorable="d"
+        Title="Фокус со словами" Height="150" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="5*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="1"
+                    Orientation="Horizontal"
+                    HorizontalAlignment="Center">
+            <!--<ListBox Name="lstInput"
+                     Width="50"
+                     Height="15"
+                     Margin="5"/>-->
+
+            <TextBox Width="78"
+                 x:Name="TxtInput"
+                 Margin="6,-10,6,6"/>
+            <Button x:Name="BtnFocus"
+                    Click="BtnFocus_Click"
+                    Width="46"
+                    Content="->" 
+                    Margin="0,-13,0,0"/>
+            <!--<ListBox Name="lstOutput"
+                     Width="50"
+                     Height="15"
+                     Margin="5"/>-->
+            <TextBox Width="72"
+                 x:Name="TxtOutput"
+                 Margin="6,-10,6,6"/>
+        </StackPanel>
+        <Button x:Name="btnNext"
+                Click="btnNext_Click"
+                FontSize="16"
+                Content="След. Задание" 
+                Margin="86,15,67,6" 
+                Grid.Row="2"/>
+    </Grid>
+</Window>
